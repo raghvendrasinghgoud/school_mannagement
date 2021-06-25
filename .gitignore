@@ -1,0 +1,5 @@
+# exclude everything
+StuTeachImages/*
+
+# exception to the rule
+!StuTeachImages/.gitaddfile
